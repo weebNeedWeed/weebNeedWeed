@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Le Minh Giau, my github nickname is weebNeedWeeb. I'm a web developer.
+I'm Giau, my github nickname is weebNeedWeeb. I'm a web developer.
 
 I have a passion for Clean code 😍, JavaScript 🚀, TypeScript 📚 and some frameworks like React and Angular.
 
