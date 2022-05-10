@@ -1,13 +1,14 @@
-### Hi there 👋
+```js
+console.log("Hello, world!");
+```
 
-I'm Giau, my github nickname is weebNeedWeeb. I'm a web developer.
+Hello, My name is Giau, I am a backend developer. I love using C# and Its framework or library. I'm learning system design and learning how to optimize websites to improve their performance.
 
-I have a passion for Clean code 😍, JavaScript 🚀, TypeScript 📚 and some frameworks like React and Angular.
+Btw, I love frontend too, I also use Javascript and React to create UI.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebNeedWeed&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=weebNeedWeed&show_icons=true&theme=aura_dark" />
 </p>
 
-<img src="https://cdna.artstation.com/p/assets/images/images/012/050/060/large/aoi-ogata-jyrisyfinal.jpg?1532759669" alt="weebNeedWeeb image" style="height: 100%; width:100%;"/>
-<p align="center">(Source by Aoi Ogata)</p>
+<img src=""/>
