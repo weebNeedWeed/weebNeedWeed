@@ -6,6 +6,14 @@ Hello, My name is Giau, I am a backend developer. I love using C# and Its framew
 
 Btw, I love frontend too, I also use Javascript and React to create UI.
 
+Please contact me via...
+- ✉️ Email: rivenmle@gmail.com
+- 👉 Facebook: https://fb.com/kt.pl.parse
+
+Read a new post about technical at my blog: 
+- https://weebneedweed.github.io/
+- https://viblo.asia/u/katyyplus
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weebNeedWeed&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api?username=weebNeedWeed&show_icons=true&theme=aura_dark" />
