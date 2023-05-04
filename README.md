@@ -2,9 +2,7 @@
 System.Console.Write("Hello, world!");
 ```
 
-Hello, My name is Giau, I am a backend developer. I love using C# and Its framework or library. I'm learning system design and learning how to optimize websites to improve their performance.
-
-Btw, I love frontend too, I also use Javascript and React to create UI.
+Hi there, I'm just a backend developer.
 
 Please contact me via...
 - ✉️ Email: rivenmle@gmail.com
