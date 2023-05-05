@@ -9,7 +9,6 @@ Please contact me via...
 - 👉 Facebook: https://fb.com/kt.pl.parse
 
 Read a new post about technical at my blog: 
-- https://weebneedweed.github.io/
 - https://viblo.asia/u/katyyplus
 
 <p align="center">
